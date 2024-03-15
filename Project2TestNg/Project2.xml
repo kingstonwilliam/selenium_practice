@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="test suite" verbose="4">
+<test name= "test practice" >
+<classes>
+<class name="project2.LoginPage"></class>
+</classes>
+</test>
+</suite>
